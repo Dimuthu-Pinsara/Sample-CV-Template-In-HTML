@@ -1,0 +1,203 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./abstract-background-web-benner-design-free-vector.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.name {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.pic {
+    width: 100%;
+    position: relative;
+
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.detail_text {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 5%;
+}
+
+
+.card {
+    box-shadow: 0px 2px 5px #3b3f40;
+    width: 29%;
+    float: left;
+    margin-left: 2px;
+
+}
+
+.column2 {
+    padding-left: 5px;
+    margin-bottom: 15px;
+    width: 70%;
+    float: right;
+    box-shadow: 0px 2px 5px #3b3f40;
+}
+
+.row:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.footer {
+    margin-top: 10px;
+    width: 100%;
+    height: 150px;
+    float: left;
+    background-color: #148ec7;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(146, 146, 146);
+    border-radius: 0px 10px 10px 0px;
+}
+
+.fa {
+    font-size: 12px;
+}
+
+.skill {
+    text-align: center;
+    /* padding-top: 3px;
+    padding-bottom: 3px; */
+    color: white;
+    border-radius: 0px 10px 10px 0px;
+    height: 24px;
+}
+
+.java {
+    width: 80%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.Web {
+    width: 90%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.sql {
+    width: 80%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.photoshop {
+    width: 84%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.Eng {
+    width: 90%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.Sin {
+    width: 100%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.tamil {
+    width: 75%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.japan {
+    width: 60%;
+    background-color: #148ec7;
+    font-family: "Trirong", serif;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer h3 {
+    text-align: center;
+    color: white;
+}
+
+.lang {
+    padding: 10px;
+}
+
+.skills {
+    padding: 10px;
+}
+
+.line {
+    width: 90%;
+}
+
+p {
+    font-family: "Trirong", serif;
+    padding-left: 4%;
+}
+
+.mydetails {
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 1%;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.current {
+    background-color: #148ec7;
+    color: white;
+    font-family: 'Arial Black';
+    border: none;
+    border-radius: 5px;
+}
+
+.fa {
+    color: #148ec7;
+}
+
+.footer .fa {
+    color: white;
+}
